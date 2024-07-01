@@ -4,7 +4,7 @@ api.map('h', 'E');
 api.map('l', 'R');
 
 // unmap but keep some keys
-api.unmapAllExcept(['x','<Ctrl-i>','I', 'og', 'i', 'h', 'l', ']', '\\', 'j', 'k'], /youtube.com|github.com|khanacademy.org|khanacademy.org/);
+api.unmapAllExcept(['x','<Ctrl-i>','I', 'og', 'i', 'h', 'l', ']', '\\', 'j', 'k'], /youtube.com|github.com|khanacademy.org/);
 api.unmapAllExcept(['x','<Ctrl-i>','I', 'og', 'h', 'l', ']', '\\', 'j', 'k'], /mail.google.com/);
 
 // an example to create a new mapping `ctrl-y`
